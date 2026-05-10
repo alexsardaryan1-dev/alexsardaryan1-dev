@@ -1,6 +1,8 @@
 💫 Hello, I'm Alex!
 
-I'm a Frontend Developer from Yerevan, Armenia. I build responsive web interfaces with HTML, CSS, JavaScript, and React, focusing on clean structure and user-friendly design.<br>I also have experience with backend technologies, so I understand how frontend applications work with APIs and databases. That helps me communicate better in full stack environments and think beyond just the visual side of a project.<br>Currently improving my React skills and continuing to learn modern frontend development practices.
+I'm a Frontend Developer from Yerevan, Armenia. I build responsive web interfaces with HTML, CSS, JavaScript, and React, focusing on clean structure and user-friendly design.
+<br>I also have experience with backend technologies, so I understand how frontend applications work with APIs and databases. That helps me communicate better in full stack environments and think beyond just the visual side of a project.
+<br>Currently improving my React skills and continuing to learn modern frontend development practices.
 
 💻 My Tech Stack:
 
