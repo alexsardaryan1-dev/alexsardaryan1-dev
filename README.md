@@ -11,7 +11,7 @@
 
 ---
 
-### About Me
+### Who I am
 
 I'm a Full Stack Developer who takes full ownership of the development lifecycle — from planning and system design to implementation, testing, and deployment. My core stack is **React.js, Node.js, Express.js, and PostgreSQL**, and I care about writing clean, maintainable code that follows solid architectural principles (MVC, REST, separation of concerns).
 
@@ -22,51 +22,26 @@ I'm a Full Stack Developer who takes full ownership of the development lifecycle
 
 ---
 
-### Tech Stack
+### My Stack
 
-<div align="left">
+#### — FRONTEND
 
-**Frontend**
-<br>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,sass,tailwind&theme=dark" alt="Frontend stack" />
 
-**Backend**
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+#### — BACKEND
 
-**Database & Cloud**
-<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Blob-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark" alt="Backend stack" />
 
-**Tools**
-<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+#### — TOOLS
 
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools" />
 
----
-
-<div align="left">
-
-### Let's Connect
-
-I'm actively open to **junior-to-mid level Full Stack roles** — remote or on-site.
-Feel free to reach out — always happy to talk code, architecture, or opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-sardaryan-dev)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexsardaryan1@gmail.com)
+#### — ENGINEERING SKILLS
+ 
+`REST API Design` `System Architecture` `MVC Architecture` `Middleware` `JWT Authentication` `bcrypt Password Hashing` `Axios` `CORS` `Authorization`
+ 
+`Responsive Design` `Mobile-First` `Database Design` `Schema Design` `Fuse.js (Fuzzy Search)` `Nodemailer (Email Services)`
+ 
+`AWS S3 / Azure Blob Storage (Familiar)` `Clean Code` `Error Handling` `Git Workflow`
 
 </div>
